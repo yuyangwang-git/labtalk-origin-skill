@@ -1,15 +1,15 @@
 # LabTalk Origin Skill
 
-Codex skill for writing, debugging, reviewing, and explaining OriginLab Origin LabTalk scripts.
+OpenAI Codex skill for writing, debugging, reviewing, and explaining OriginLab Origin LabTalk scripts.
 
-It includes compact references for LabTalk syntax, variables, ranges, datasets, X-Functions, workbooks, worksheets, graphing, importing/exporting, analysis workflows, automation, and command lookup.
+It is optimized for OpenAI Codex's skill format and includes compact references for LabTalk syntax, variables, ranges, datasets, X-Functions, workbooks, worksheets, graphing, importing/exporting, analysis workflows, automation, and command lookup.
 
 ## Install
 
 Tell Codex:
 
 ```text
-Install the labtalk-origin skill from this repository into my Codex skills directory.
+Install the labtalk-origin skill from https://github.com/yuyangwang-git/labtalk-origin-skill into my Codex skills directory.
 ```
 
 Or manually copy the `labtalk-origin` folder into:
