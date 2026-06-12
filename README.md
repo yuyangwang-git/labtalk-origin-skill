@@ -9,10 +9,16 @@ It is optimized for OpenAI Codex's skill format and includes compact references 
 Tell Codex:
 
 ```text
-Install the labtalk-origin skill from https://github.com/yuyangwang-git/labtalk-origin-skill into my Codex skills directory.
+Install the OpenAI Codex skill located at labtalk-origin/ from https://github.com/yuyangwang-git/labtalk-origin-skill into my Codex skills directory.
 ```
 
-Or manually copy the `labtalk-origin` folder into:
+The skill is in the repository subfolder:
+
+```text
+labtalk-origin/
+```
+
+Or manually copy that `labtalk-origin` folder into:
 
 ```text
 ~/.codex/skills/labtalk-origin
@@ -24,7 +30,7 @@ On Windows, this is typically:
 C:\Users\<you>\.codex\skills\labtalk-origin
 ```
 
-Then ask Codex to use `$labtalk-origin`.
+Restart Codex or start a new conversation so the skill can be discovered, then ask Codex to use `$labtalk-origin`.
 
 ## Usage
 
