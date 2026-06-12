@@ -1,0 +1,49 @@
+# LabTalk Origin Skill
+
+Codex skill for writing, debugging, reviewing, and explaining OriginLab Origin LabTalk scripts.
+
+It includes compact references for LabTalk syntax, variables, ranges, datasets, X-Functions, workbooks, worksheets, graphing, importing/exporting, analysis workflows, automation, and command lookup.
+
+## Install
+
+Tell Codex:
+
+```text
+Install the labtalk-origin skill from this repository into my Codex skills directory.
+```
+
+Or manually copy the `labtalk-origin` folder into:
+
+```text
+~/.codex/skills/labtalk-origin
+```
+
+On Windows, this is typically:
+
+```text
+C:\Users\<you>\.codex\skills\labtalk-origin
+```
+
+Then ask Codex to use `$labtalk-origin`.
+
+## Usage
+
+Examples:
+
+```text
+Use $labtalk-origin to write a LabTalk script that imports a CSV file, creates a worksheet column, and plots the result.
+```
+
+```text
+Use $labtalk-origin to explain how to call an Origin X-Function from LabTalk.
+```
+
+For command lookup, the skill includes:
+
+```text
+labtalk-origin/scripts/search_labtalk_reference.py
+```
+
+## Background
+
+This skill was distilled from OriginLab's [LabTalk Scripting Guide](https://d2mvzyuse3lwjc.cloudfront.net/pdfs/Origin2026_Documentation/English/LabTalk_Scripting_Guide_E.pdf#zoom=100).

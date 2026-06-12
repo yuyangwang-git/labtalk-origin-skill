@@ -1,0 +1,1388 @@
+[
+  {
+    "name": "(2019 SR0)",
+    "description": "radix.",
+    "page": 463,
+    "source": "20.2.17 Engineering"
+  },
+  {
+    "name": "(2019SR0)",
+    "description": "radix .",
+    "page": 463,
+    "source": "page 463 table 1"
+  },
+  {
+    "name": "add_graph_to_graph",
+    "description": "Paste a graph from existing graphs as an EMF object onto a layout window",
+    "page": 477,
+    "source": "20.3.5 Graph Manipulation"
+  },
+  {
+    "name": "add_table_to_graph",
+    "description": "Add a linked table to graph",
+    "page": 477,
+    "source": "20.3.5 Graph Manipulation"
+  },
+  {
+    "name": "addsheet",
+    "description": "Set up data format and fitting function for Assays Template",
+    "page": 468,
+    "source": "20.3.2 Data Manipulation"
+  },
+  {
+    "name": "addtool_curve_deriv",
+    "description": "Place a rectangle on the plot to perform differentiation",
+    "page": 467,
+    "source": "20.3.1 Data Exploration"
+  },
+  {
+    "name": "addtool_curve_fft",
+    "description": "Add a rectangle onto the plot to perform FFT",
+    "page": 467,
+    "source": "20.3.1 Data Exploration"
+  },
+  {
+    "name": "addtool_curve_integ",
+    "description": "Attach a rectangle on the plot to perform integration",
+    "page": 467,
+    "source": "20.3.1 Data Exploration"
+  },
+  {
+    "name": "addtool_curve_interp",
+    "description": "Place a rectangle on the plot to perform interpolation",
+    "page": 467,
+    "source": "20.3.1 Data Exploration"
+  },
+  {
+    "name": "addtool_curve_stats",
+    "description": "Place a rectangle onto the plot to calculate basic statistics",
+    "page": 467,
+    "source": "20.3.1 Data Exploration"
+  },
+  {
+    "name": "addtool_quickfit",
+    "description": "Place a rectangle onto the plot to do fitting",
+    "page": 467,
+    "source": "20.3.1 Data Exploration"
+  },
+  {
+    "name": "assays",
+    "description": "Assays Template Configuration:Set up data format and fitting function for Assays Template",
+    "page": 468,
+    "source": "20.3.2 Data Manipulation"
+  },
+  {
+    "name": "avecurves",
+    "description": "Average or concatenate multiple curves",
+    "page": 486,
+    "source": "20.3.8 Mathematics"
+  },
+  {
+    "name": "averagexy",
+    "description": "Average or concatenate multiple curves",
+    "page": 486,
+    "source": "20.3.8 Mathematics"
+  },
+  {
+    "name": "Base(num,radix[,len])$",
+    "description": "Convert a given integernum into a string representation of the specified",
+    "page": 463,
+    "source": "20.2.17 Engineering"
+  },
+  {
+    "name": "batchProcess",
+    "description": "Perform batch processing of multiple files or datasets using Analysis Template, with optional summary report sheet",
+    "page": 350,
+    "source": "19.4.3 Using Batch Processing X-Functions"
+  },
+  {
+    "name": "batchProcess",
+    "description": "Batch processing with Analysis Template to generate summary report",
+    "page": 483,
+    "source": "20.3.7 Import and Export"
+  },
+  {
+    "name": "bessel_i0(x)",
+    "description": "Bessel i0. Evaluates an approximation to the modified Bessel function of the first kind, I0(x).",
+    "page": 411,
+    "source": "20.2.14.2 Bessel"
+  },
+  {
+    "name": "bessel_i0_scaled(x)",
+    "description": "Bessel i0 scaled. Evaluates an approximation to",
+    "page": 411,
+    "source": "20.2.14.2 Bessel"
+  },
+  {
+    "name": "bessel_i1(x)",
+    "description": "Bessel i1. Evaluates an approximation to the modified Bessel function of the first kind, .",
+    "page": 411,
+    "source": "20.2.14.2 Bessel"
+  },
+  {
+    "name": "bessel_i1_scaled(x)",
+    "description": "Bessel i1 scaled. Evaluates an approximation to",
+    "page": 411,
+    "source": "20.2.14.2 Bessel"
+  },
+  {
+    "name": "bessel_i_nu(x,nu)",
+    "description": "Bessel i nu. Evaluates an approximation to the modified Bessel function of the first kind I /4 (x)",
+    "page": 411,
+    "source": "20.2.14.2 Bessel"
+  },
+  {
+    "name": "bessel_i_nu_scaled(x,nu)",
+    "description": "Bessel i nu scaled. Evaluates an approximation to the modified Bessel function of the first kind",
+    "page": 411,
+    "source": "20.2.14.2 Bessel"
+  },
+  {
+    "name": "bessel_j0(x)",
+    "description": "Bessel j0. Evaluates the Bessel function of the first kind,",
+    "page": 411,
+    "source": "20.2.14.2 Bessel"
+  },
+  {
+    "name": "bessel_j1(x)",
+    "description": "Bessel j1. Evaluates an approximation to the Bessel function of the first kind",
+    "page": 411,
+    "source": "20.2.14.2 Bessel"
+  },
+  {
+    "name": "bessel_k0(x)",
+    "description": "Bessel k0. Evaluates an approximation to the modified Bessel function of the second kind,",
+    "page": 411,
+    "source": "20.2.14.2 Bessel"
+  },
+  {
+    "name": "bessel_k0_scaled(x)",
+    "description": "Bessel k0 scaled. Evaluates an approximation to",
+    "page": 411,
+    "source": "20.2.14.2 Bessel"
+  },
+  {
+    "name": "Bessel_k1(x)",
+    "description": "Bessel k1. Evaluates an approximation to the modified Bessel function of the second kind,",
+    "page": 411,
+    "source": "20.2.14.2 Bessel"
+  },
+  {
+    "name": "bessel_k1_scaled(x)",
+    "description": "Bessel k1 scaled. Evaluates an approximation to",
+    "page": 411,
+    "source": "20.2.14.2 Bessel"
+  },
+  {
+    "name": "Beta(x,y0,xc,A,w1,w2,w3)",
+    "description": "Beta peak function for use in chromatography and spectroscopy.",
+    "page": 428,
+    "source": "20.2.15.7 Peak Functions"
+  },
+  {
+    "name": "Bin2Dec(str$)",
+    "description": "Convert a binary number to decimal.",
+    "page": 463,
+    "source": "20.2.17 Engineering"
+  },
+  {
+    "name": "BoxLucas1(x,a,b)",
+    "description": "with zero offset.",
+    "page": 419,
+    "source": "20.2.15.3 Exponential"
+  },
+  {
+    "name": "BoxLucas1(xab) , ,",
+    "description": "withzerooffset .",
+    "page": 419,
+    "source": "page 419 table 1"
+  },
+  {
+    "name": "bspline",
+    "description": "Perform cubic B-Spline interpolation and extrapolation",
+    "page": 486,
+    "source": "20.3.8 Mathematics"
+  },
+  {
+    "name": "cd",
+    "description": "Change or show working directory",
+    "page": 495,
+    "source": "20.3.12.2 System"
+  },
+  {
+    "name": "cdset",
+    "description": "Assigns a specified index to the current working directory, or lists all assigned indices and associated paths.",
+    "page": 495,
+    "source": "20.3.12.2 System"
+  },
+  {
+    "name": "Chapman(x,a,b,c)",
+    "description": "growth curve.",
+    "page": 419,
+    "source": "20.2.15.3 Exponential"
+  },
+  {
+    "name": "Chapman(xabc) , , ,",
+    "description": "growthcurve .",
+    "page": 419,
+    "source": "page 419 table 1"
+  },
+  {
+    "name": "cmpfile",
+    "description": "Compare two binary files and print out comparison results",
+    "page": 494,
+    "source": "20.3.12.1 File"
+  },
+  {
+    "name": "cohere",
+    "description": "Perform coherence",
+    "page": 488,
+    "source": "20.3.9 Signal Processing"
+  },
+  {
+    "name": "colcopy",
+    "description": "Copy columns with format & headers",
+    "page": 473,
+    "source": "20.3.2.4 Worksheet"
+  },
+  {
+    "name": "colint",
+    "description": "Set Sampling Interval (Implicit X) for selected Y columns",
+    "page": 473,
+    "source": "20.3.2.4 Worksheet"
+  },
+  {
+    "name": "colmask",
+    "description": "Mask a range of columns based on some condition",
+    "page": 473,
+    "source": "20.3.2.4 Worksheet"
+  },
+  {
+    "name": "colmove",
+    "description": "Move selected columns",
+    "page": 473,
+    "source": "20.3.2.4 Worksheet"
+  },
+  {
+    "name": "colshowx",
+    "description": "Show X column (extract Sampling Interval) for the selected Y column(s)",
+    "page": 473,
+    "source": "20.3.2.4 Worksheet"
+  },
+  {
+    "name": "colstats",
+    "description": "Columnwise statistics",
+    "page": 296,
+    "source": "14.3.2 Descriptive statistics"
+  },
+  {
+    "name": "colstats",
+    "description": "Perform statistics on columns",
+    "page": 491,
+    "source": "20.3.11.1 Descriptive Statistics"
+  },
+  {
+    "name": "colswap",
+    "description": "Swap the position of two selected columns",
+    "page": 473,
+    "source": "20.3.2.4 Worksheet"
+  },
+  {
+    "name": "Convert(d,str1$,str2$)",
+    "description": "Convert a number from one measurement system to another.",
+    "page": 463,
+    "source": "20.2.17 Engineering"
+  },
+  {
+    "name": "copydata",
+    "description": "Copy numeric data",
+    "page": 468,
+    "source": "20.3.2 Data Manipulation"
+  },
+  {
+    "name": "corrcoef",
+    "description": "Calculate correlation coefficients of the selected data",
+    "page": 491,
+    "source": "20.3.11.1 Descriptive Statistics"
+  },
+  {
+    "name": "corrcoef (Pro Only)",
+    "description": "Correlation Coefficient",
+    "page": 296,
+    "source": "14.3.2 Descriptive statistics"
+  },
+  {
+    "name": "Correl(vx vy) ,",
+    "description": "for(ii=1;ii<=30;ii++) col(1)[ii] =",
+    "page": 385,
+    "source": "page 385 table 2"
+  },
+  {
+    "name": "Correl(vx, vy)",
+    "description": "`for(ii=1;ii<=30;ii++) col(1)[ii] =` `ii; col(2)=ln(col(1));`",
+    "page": 385,
+    "source": "20.2.9 Statistical Functions"
+  },
+  {
+    "name": "cov(vx, vy[, avex, avey])",
+    "description": "avex andavey, returns the covariance.example:",
+    "page": 385,
+    "source": "20.2.9 Statistical Functions"
+  },
+  {
+    "name": "cwt",
+    "description": "Computes the real one-dimensional continuous wavelet transform coefficients , ,",
+    "page": 490,
+    "source": "page 490 table 1"
+  },
+  {
+    "name": "cxt",
+    "description": "Shift the x values of the active curve with different mode",
+    "page": 468,
+    "source": "20.3.2 Data Manipulation"
+  },
+  {
+    "name": "dbEdit",
+    "description": "Create, Edit, Load or Remove a query in a worksheet.",
+    "page": 255,
+    "source": "11.2.7 Import from a Database"
+  },
+  {
+    "name": "dbEdit",
+    "description": "Create/Edit/Remove/Load Query",
+    "page": 476,
+    "source": "20.3.3 Database Access"
+  },
+  {
+    "name": "dbImport",
+    "description": "Execute the database query stored in a specific worksheet.",
+    "page": 255,
+    "source": "11.2.7 Import from a Database"
+  },
+  {
+    "name": "dbImport",
+    "description": "Import data from database through the query",
+    "page": 476,
+    "source": "20.3.3 Database Access"
+  },
+  {
+    "name": "dbInfo",
+    "description": "Show database connection information",
+    "page": 476,
+    "source": "20.3.3 Database Access"
+  },
+  {
+    "name": "dbPreview",
+    "description": "Import to certain top rows for previewing the data from the query",
+    "page": 476,
+    "source": "20.3.3 Database Access"
+  },
+  {
+    "name": "debug_log",
+    "description": "Used to create a debug log file. Turn on only if you have a problem to report to OriginLab.",
+    "page": 495,
+    "source": "20.3.12.2 System"
+  },
+  {
+    "name": "Dec2Bin(n)$",
+    "description": "Convert a decimal number to binary. The input range is limited to -512 to 511.",
+    "page": 463,
+    "source": "20.2.17 Engineering"
+  },
+  {
+    "name": "Dec2Hex(n[,places])$",
+    "description": "Convert a decimal number to hexadecimal and optionally, specify number of characters.",
+    "page": 463,
+    "source": "20.2.17 Engineering"
+  },
+  {
+    "name": "Decimal(text$,radix)",
+    "description": "Convert a string representation text in the specified radix into a decimal number.",
+    "page": 463,
+    "source": "20.2.17 Engineering"
+  },
+  {
+    "name": "dir",
+    "description": "list script (ogs) and x-functions (oxf) in current working directory.",
+    "page": 495,
+    "source": "20.3.12.2 System"
+  },
+  {
+    "name": "discfreqs",
+    "description": "Calculate Frequency for discrete/categorical data",
+    "page": 491,
+    "source": "20.3.11.1 Descriptive Statistics"
+  },
+  {
+    "name": "dlgChkList",
+    "description": "Prompt to select from a list",
+    "page": 330,
+    "source": "15.4.1 X-Function dialogs"
+  },
+  {
+    "name": "dlgChkList",
+    "description": "Open a dialog with check boxes and return each check box's selected status when the dialog is closed.",
+    "page": 495,
+    "source": "20.3.12.2 System"
+  },
+  {
+    "name": "dlgFile",
+    "description": "Prompt with an Open File dialog",
+    "page": 330,
+    "source": "15.4.1 X-Function dialogs"
+  },
+  {
+    "name": "dlgFile",
+    "description": "Prompt user to select a file with an Open file dialog.",
+    "page": 494,
+    "source": "20.3.12.1 File"
+  },
+  {
+    "name": "dlgPath",
+    "description": "Prompt with an Open Path dialog",
+    "page": 330,
+    "source": "15.4.1 X-Function dialogs"
+  },
+  {
+    "name": "dlgPath",
+    "description": "Prompt user to select a path with an Open Path dialog.",
+    "page": 494,
+    "source": "20.3.12.1 File"
+  },
+  {
+    "name": "dlgRowColGoto",
+    "description": "Go to specified row and column",
+    "page": 330,
+    "source": "15.4.1 X-Function dialogs"
+  },
+  {
+    "name": "dlgSave",
+    "description": "Prompt with a Save As dialog",
+    "page": 330,
+    "source": "15.4.1 X-Function dialogs"
+  },
+  {
+    "name": "dlgSave",
+    "description": "Prompt user with an Save as dialog.",
+    "page": 494,
+    "source": "20.3.12.1 File"
+  },
+  {
+    "name": "dlgTheme",
+    "description": "Select a theme from a dialog",
+    "page": 330,
+    "source": "15.4.1 X-Function dialogs"
+  },
+  {
+    "name": "Exp1P3Md(x,B)",
+    "description": "One-Parameter Exponential Function.",
+    "page": 419,
+    "source": "20.2.15.3 Exponential"
+  },
+  {
+    "name": "Exp1P3Md(xB) ,",
+    "description": "One-Parameter Exponential Function .",
+    "page": 419,
+    "source": "page 419 table 1"
+  },
+  {
+    "name": "expASC",
+    "description": "Export worksheet data as ASCII file",
+    "page": 483,
+    "source": "20.3.7 Import and Export"
+  },
+  {
+    "name": "expGraph",
+    "description": "Export graph(s) to graphics file(s)",
+    "page": 483,
+    "source": "20.3.7 Import and Export"
+  },
+  {
+    "name": "fft1",
+    "description": "Fast Fourier transform on input vector (discrete Fourier transforms)",
+    "page": 489,
+    "source": "20.3.9.1 FFT"
+  },
+  {
+    "name": "fft2",
+    "description": "Two-dimensional fast Fourier transform",
+    "page": 489,
+    "source": "20.3.9.1 FFT"
+  },
+  {
+    "name": "filelog",
+    "description": "Create a .txt file that contains notes or records of the user's work through a string",
+    "page": 494,
+    "source": "20.3.12.1 File"
+  },
+  {
+    "name": "filltext",
+    "description": "Fill the cell in the specified range with random letters",
+    "page": 473,
+    "source": "20.3.2.4 Worksheet"
+  },
+  {
+    "name": "findBase",
+    "description": "Find Baseline region in XY data",
+    "page": 476,
+    "source": "20.3.4 Fitting"
+  },
+  {
+    "name": "findFiles",
+    "description": "Searches for a file or files.",
+    "page": 494,
+    "source": "20.3.12.1 File"
+  },
+  {
+    "name": "findFolders",
+    "description": "Searches for a folder or folders.",
+    "page": 494,
+    "source": "20.3.12.1 File"
+  },
+  {
+    "name": "fitcmpdata",
+    "description": "Compare two datasets to the same fit model",
+    "page": 476,
+    "source": "20.3.4 Fitting"
+  },
+  {
+    "name": "fitcmpmodel",
+    "description": "Compare two fit models to the same dataset",
+    "page": 476,
+    "source": "20.3.4 Fitting"
+  },
+  {
+    "name": "fitpeaks",
+    "description": "Fit multiple peaks.",
+    "page": 313,
+    "source": "14.6.1 X-Functions For Peak Analysis"
+  },
+  {
+    "name": "freqcounts",
+    "description": "Frequency counts of a data set.",
+    "page": 296,
+    "source": "14.3.2 Descriptive statistics"
+  },
+  {
+    "name": "freqcounts",
+    "description": "Calculate frequency counts",
+    "page": 491,
+    "source": "20.3.11.1 Descriptive Statistics"
+  },
+  {
+    "name": "friedman",
+    "description": "Compares three or more paired groups. Input data should be arranged in index.",
+    "page": 301,
+    "source": "14.3.4 Nonparametric Tests"
+  },
+  {
+    "name": "getresults",
+    "description": "Get the result tree",
+    "page": 473,
+    "source": "20.3.2.4 Worksheet"
+  },
+  {
+    "name": "group_server",
+    "description": "Set up the Group Folder location for both group leader and members",
+    "page": 495,
+    "source": "20.3.12.2 System"
+  },
+  {
+    "name": "groupmgr",
+    "description": "Group Leader's tool to manage Group Folder files",
+    "page": 495,
+    "source": "20.3.12.2 System"
+  },
+  {
+    "name": "Hex2Dec(str$)",
+    "description": "Convert a string representation of a hexadecimal number to decimal.",
+    "page": 463,
+    "source": "20.2.17 Engineering"
+  },
+  {
+    "name": "ifft1",
+    "description": "Perform inverse Fourier transform",
+    "page": 489,
+    "source": "20.3.9.1 FFT"
+  },
+  {
+    "name": "ifft2",
+    "description": "Inverse two-dimensional discrete Fourier transform",
+    "page": 489,
+    "source": "20.3.9.1 FFT"
+  },
+  {
+    "name": "Imabs(c)",
+    "description": "Get the modulus of a complex number.",
+    "page": 463,
+    "source": "20.2.17 Engineering"
+  },
+  {
+    "name": "Imaginary(c)",
+    "description": "This function is used to get the imaginary part of a complex number.",
+    "page": 463,
+    "source": "20.2.17 Engineering"
+  },
+  {
+    "name": "img2m",
+    "description": "Convert a grayscale image to a numeric data matrix",
+    "page": 481,
+    "source": "20.3.6.4 Conversion"
+  },
+  {
+    "name": "imgAutoBinary",
+    "description": "Auto convert to binary",
+    "page": 481,
+    "source": "20.3.6.4 Conversion"
+  },
+  {
+    "name": "imgAutoLevel",
+    "description": "Apply auto leveling to image",
+    "page": 480,
+    "source": "20.3.6.1 Adjustments"
+  },
+  {
+    "name": "imgAverage",
+    "description": "Apply average filter to image",
+    "page": 483,
+    "source": "20.3.6.6 Spatial Filters"
+  },
+  {
+    "name": "imgBalance",
+    "description": "Balance the color of image",
+    "page": 480,
+    "source": "20.3.6.1 Adjustments"
+  },
+  {
+    "name": "imgBinary",
+    "description": "Convert to binary",
+    "page": 481,
+    "source": "20.3.6.4 Conversion"
+  },
+  {
+    "name": "imgBlend",
+    "description": "Blend two images into a combined image",
+    "page": 481,
+    "source": "20.3.6.3 Arithmetic Transform"
+  },
+  {
+    "name": "imgBrightness",
+    "description": "Adjust the brightness of Image",
+    "page": 480,
+    "source": "20.3.6.1 Adjustments"
+  },
+  {
+    "name": "imgClear",
+    "description": "Clear the image",
+    "page": 483,
+    "source": "20.3.6.6 Spatial Filters"
+  },
+  {
+    "name": "imgColorlevel",
+    "description": "Apply user-defined color leveling to image",
+    "page": 480,
+    "source": "20.3.6.1 Adjustments"
+  },
+  {
+    "name": "imgColorReplace",
+    "description": "Replace color within pre-defined color range",
+    "page": 480,
+    "source": "20.3.6.1 Adjustments"
+  },
+  {
+    "name": "imgContrast",
+    "description": "Adjust contrast of image",
+    "page": 480,
+    "source": "20.3.6.1 Adjustments"
+  },
+  {
+    "name": "imgCrop",
+    "description": "Crop image to a rectangle area",
+    "page": 482,
+    "source": "20.3.6.5 Geometric Transform"
+  },
+  {
+    "name": "imgEdge",
+    "description": "Detecting edges",
+    "page": 483,
+    "source": "20.3.6.6 Spatial Filters"
+  },
+  {
+    "name": "imgFlip",
+    "description": "Flip the image horizontally or vertically",
+    "page": 482,
+    "source": "20.3.6.5 Geometric Transform"
+  },
+  {
+    "name": "imgFuncLUT",
+    "description": "Apply lookup table function to image",
+    "page": 480,
+    "source": "20.3.6.1 Adjustments"
+  },
+  {
+    "name": "imgGamma",
+    "description": "Apply gamma correction to image",
+    "page": 480,
+    "source": "20.3.6.1 Adjustments"
+  },
+  {
+    "name": "imgGaussian",
+    "description": "Apply Gaussian filter",
+    "page": 483,
+    "source": "20.3.6.6 Spatial Filters"
+  },
+  {
+    "name": "imgHistcontrast",
+    "description": "Adjust the contrast of image, using histogram to calculate the median.",
+    "page": 480,
+    "source": "20.3.6.1 Adjustments"
+  },
+  {
+    "name": "imgHisteq",
+    "description": "Apply histogram equalization",
+    "page": 480,
+    "source": "20.3.6.1 Adjustments"
+  },
+  {
+    "name": "imgHistogram",
+    "description": "Image histogram",
+    "page": 481,
+    "source": "20.3.6.2 Analysis"
+  },
+  {
+    "name": "imgHue",
+    "description": "Adjust hue of image",
+    "page": 480,
+    "source": "20.3.6.1 Adjustments"
+  },
+  {
+    "name": "imgInvert",
+    "description": "Invert image color",
+    "page": 480,
+    "source": "20.3.6.1 Adjustments"
+  },
+  {
+    "name": "imgLevel",
+    "description": "Adjust the levels of image",
+    "page": 480,
+    "source": "20.3.6.1 Adjustments"
+  },
+  {
+    "name": "imgMathfun",
+    "description": "Perform math function on image pixel values with a factor",
+    "page": 481,
+    "source": "20.3.6.3 Arithmetic Transform"
+  },
+  {
+    "name": "imgMedian",
+    "description": "Apply median filter",
+    "page": 483,
+    "source": "20.3.6.6 Spatial Filters"
+  },
+  {
+    "name": "imgMorph",
+    "description": "Apply morphological filter to numeric Matrix or grayscale/binary image",
+    "page": 481,
+    "source": "20.3.6.3 Arithmetic Transform"
+  },
+  {
+    "name": "imgNoise",
+    "description": "Add random noise to image",
+    "page": 483,
+    "source": "20.3.6.6 Spatial Filters"
+  },
+  {
+    "name": "imgPixlog",
+    "description": "Perform logic operation on pixels",
+    "page": 481,
+    "source": "20.3.6.3 Arithmetic Transform"
+  },
+  {
+    "name": "imgReplaceBg",
+    "description": "Replace background color",
+    "page": 481,
+    "source": "20.3.6.3 Arithmetic Transform"
+  },
+  {
+    "name": "imgResize",
+    "description": "Resize image",
+    "page": 482,
+    "source": "20.3.6.5 Geometric Transform"
+  },
+  {
+    "name": "imgRotate",
+    "description": "Rotates an image by a specified degree",
+    "page": 482,
+    "source": "20.3.6.5 Geometric Transform"
+  },
+  {
+    "name": "imgSaturation",
+    "description": "Adjust Saturation of image",
+    "page": 480,
+    "source": "20.3.6.1 Adjustments"
+  },
+  {
+    "name": "imgSharpen",
+    "description": "Increase or decrease image sharpness",
+    "page": 483,
+    "source": "20.3.6.6 Spatial Filters"
+  },
+  {
+    "name": "imgShear",
+    "description": "Shear the image horizontally or vertically",
+    "page": 482,
+    "source": "20.3.6.5 Geometric Transform"
+  },
+  {
+    "name": "imgSimpleMath",
+    "description": "Simple Math operation between two Images",
+    "page": 481,
+    "source": "20.3.6.3 Arithmetic Transform"
+  },
+  {
+    "name": "imgSubtractBg",
+    "description": "Subtract image background",
+    "page": 481,
+    "source": "20.3.6.3 Arithmetic Transform"
+  },
+  {
+    "name": "imgTrim",
+    "description": "Trim image with auto threshold settings",
+    "page": 482,
+    "source": "20.3.6.5 Geometric Transform"
+  },
+  {
+    "name": "imgUnsharpmask",
+    "description": "Apply unsharp mask",
+    "page": 483,
+    "source": "20.3.6.6 Spatial Filters"
+  },
+  {
+    "name": "imgUserfilter",
+    "description": "Apply user defined filter",
+    "page": 483,
+    "source": "20.3.6.6 Spatial Filters"
+  },
+  {
+    "name": "impASC",
+    "description": "Import ASCII file/files",
+    "page": 249,
+    "source": "11.1 Importing"
+  },
+  {
+    "name": "impBin2d",
+    "description": "Import binary 2d array file",
+    "page": 249,
+    "source": "11.1 Importing"
+  },
+  {
+    "name": "impCSV",
+    "description": "Import csv file",
+    "page": 249,
+    "source": "11.1 Importing"
+  },
+  {
+    "name": "impDT",
+    "description": "Import Data Translation Version 1.0 files",
+    "page": 249,
+    "source": "11.1 Importing"
+  },
+  {
+    "name": "impEP",
+    "description": "Import EarthProbe (EPA) file. Now only EPA file is supported for EarthProbe data.",
+    "page": 249,
+    "source": "11.1 Importing"
+  },
+  {
+    "name": "impExcel",
+    "description": "Import Microsoft Excel 97-2007 files",
+    "page": 249,
+    "source": "11.1 Importing"
+  },
+  {
+    "name": "insertArrow",
+    "description": "Insert arrow",
+    "page": 473,
+    "source": "20.3.2.4 Worksheet"
+  },
+  {
+    "name": "insertGraph",
+    "description": "Insert a graph into a worksheet cell",
+    "page": 473,
+    "source": "20.3.2.4 Worksheet"
+  },
+  {
+    "name": "insertImg",
+    "description": "Insert images from files",
+    "page": 473,
+    "source": "20.3.2.4 Worksheet"
+  },
+  {
+    "name": "insertNotes",
+    "description": "Embed a Notes page into a worksheet cell",
+    "page": 473,
+    "source": "20.3.2.4 Worksheet"
+  },
+  {
+    "name": "instOPX",
+    "description": "Install an Origin XML Package",
+    "page": 495,
+    "source": "20.3.12.2 System"
+  },
+  {
+    "name": "interp1",
+    "description": "Perform interpolation of XY data and generate output at a given set of X values",
+    "page": 293,
+    "source": "14.2.5.3.1 X-Functions for Interpolation of Curves"
+  },
+  {
+    "name": "interp1xy",
+    "description": "Perform interpolation of XY data and generate output at uniformly spaced X",
+    "page": 293,
+    "source": "14.2.5.3.1 X-Functions for Interpolation of Curves"
+  },
+  {
+    "name": "kaplanmeier",
+    "description": "Kaplan-Meier (product-limit) Estimator",
+    "page": 302,
+    "source": "14.3.5 Survival Analysis"
+  },
+  {
+    "name": "kstest",
+    "description": "One sample Kolmogorov-Smirnov test for normality",
+    "page": 491,
+    "source": "20.3.11.1 Descriptive Statistics"
+  },
+  {
+    "name": "kstest2",
+    "description": "Perform a two-sample KS -test on the input data .",
+    "page": 493,
+    "source": "page 493 table 1"
+  },
+  {
+    "name": "kwanova",
+    "description": "Perform Kruskal -Wallis ANOVA",
+    "page": 493,
+    "source": "page 493 table 1"
+  },
+  {
+    "name": "kwanova/mediantest",
+    "description": "Test whether different samples' medians are equal, Input data should be arranged in index mode.",
+    "page": 301,
+    "source": "14.3.4 Nonparametric Tests"
+  },
+  {
+    "name": "language",
+    "description": "Change Origin Display Language",
+    "page": 495,
+    "source": "20.3.12.2 System"
+  },
+  {
+    "name": "lc",
+    "description": "Lists x-function categories, or all x-functions in a specified category.",
+    "page": 495,
+    "source": "20.3.12.2 System"
+  },
+  {
+    "name": "levelcrossing",
+    "description": "Get x coordinate crossing the given level",
+    "page": 468,
+    "source": "20.3.2 Data Manipulation"
+  },
+  {
+    "name": "lillietest",
+    "description": "Lilliefors normality test",
+    "page": 491,
+    "source": "20.3.11.1 Descriptive Statistics"
+  },
+  {
+    "name": "m2v",
+    "description": "Convert a matrix to a vector",
+    "page": 468,
+    "source": "20.3.2 Data Manipulation"
+  },
+  {
+    "name": "m2w",
+    "description": "Convert the Matrix data into a Worksheet",
+    "page": 470,
+    "source": "20.3.2.1 Gridding"
+  },
+  {
+    "name": "map2c",
+    "description": "Combine an amplitude matrix and a phase matrix to a complex matrix.",
+    "page": 468,
+    "source": "20.3.2 Data Manipulation"
+  },
+  {
+    "name": "mc2ap",
+    "description": "Convert complex numbers in a matrix to amplitudes and phases.",
+    "page": 468,
+    "source": "20.3.2 Data Manipulation"
+  },
+  {
+    "name": "mCrop",
+    "description": "Crop matrix to a rectangle area",
+    "page": 471,
+    "source": "20.3.2.2 Matrix"
+  },
+  {
+    "name": "mdim",
+    "description": "Set the dimensions and values of XY coordinates for the active matrix",
+    "page": 471,
+    "source": "20.3.2.2 Matrix"
+  },
+  {
+    "name": "mdwt",
+    "description": "Multilevel 1 -D wavelet decomposition",
+    "page": 490,
+    "source": "page 490 table 1"
+  },
+  {
+    "name": "mediantest",
+    "description": "Performmediantest",
+    "page": 493,
+    "source": "page 493 table 1"
+  },
+  {
+    "name": "mexpand",
+    "description": "Expand for every cell in the active matrix according to the column and row factors",
+    "page": 471,
+    "source": "20.3.2.2 Matrix"
+  },
+  {
+    "name": "mmoments",
+    "description": "Calculate moments on selected data",
+    "page": 491,
+    "source": "20.3.11.1 Descriptive Statistics"
+  },
+  {
+    "name": "moments",
+    "description": "Calculate moments on selected data",
+    "page": 491,
+    "source": "20.3.11.1 Descriptive Statistics"
+  },
+  {
+    "name": "mstats (Pro Only)",
+    "description": "Compute descriptive statistics on a matrix",
+    "page": 296,
+    "source": "14.3.2 Descriptive statistics"
+  },
+  {
+    "name": "mwtest",
+    "description": "Perform Mann-Whitney test",
+    "page": 493,
+    "source": "page 493 table 1"
+  },
+  {
+    "name": "mwtest/kstest2",
+    "description": "Test whether the two samples have identical distribution. Input data should be Indexed.",
+    "page": 301,
+    "source": "14.3.4 Nonparametric Tests"
+  },
+  {
+    "name": "Name",
+    "description": "Brief Description",
+    "page": 463,
+    "source": "20.2.17 Engineering"
+  },
+  {
+    "name": "nlbegin",
+    "description": "Start a LabTalk nlfit session on XY data from worksheet or graph. Note: This X-Function fits one independent/dependent model only. For multiple dependent/independent functions, use_nlbeginr_ instead.",
+    "page": 308,
+    "source": "14.4.3.3 Table of X-functions Supporting Non-Linear Fitting"
+  },
+  {
+    "name": "nlbeginm",
+    "description": "Start a LabTalk nlfit session on matrix data from matrix object or graph",
+    "page": 308,
+    "source": "14.4.3.3 Table of X-functions Supporting Non-Linear Fitting"
+  },
+  {
+    "name": "nlbeginr",
+    "description": "Start a LabTalk nlfit session on worksheet data. It is used for fitting multiple dependent/independent variables functions.",
+    "page": 308,
+    "source": "14.4.3.3 Table of X-functions Supporting Non-Linear Fitting"
+  },
+  {
+    "name": "nlbeginz",
+    "description": "Start a LabTalk nlfit session on XYZ data from worksheet or graph",
+    "page": 308,
+    "source": "14.4.3.3 Table of X-functions Supporting Non-Linear Fitting"
+  },
+  {
+    "name": "nlfit",
+    "description": "Perform iterations to fit the data",
+    "page": 308,
+    "source": "14.4.3.3 Table of X-functions Supporting Non-Linear Fitting"
+  },
+  {
+    "name": "nlfn",
+    "description": "Set Automatic Parameter Initialization option",
+    "page": 308,
+    "source": "14.4.3.3 Table of X-functions Supporting Non-Linear Fitting"
+  },
+  {
+    "name": "nlpara",
+    "description": "Open the Parameter dialog for GUI editing of parameter values and bounds",
+    "page": 308,
+    "source": "14.4.3.3 Table of X-functions Supporting Non-Linear Fitting"
+  },
+  {
+    "name": "pa",
+    "description": "Perform peak analysis with a pre-savedPeak Analyzer theme file.",
+    "page": 313,
+    "source": "14.6.1 X-Functions For Peak Analysis"
+  },
+  {
+    "name": "paMultiY",
+    "description": "Perform batch processing of peak analysis on multiple Y datasets",
+    "page": 313,
+    "source": "14.6.1 X-Functions For Peak Analysis"
+  },
+  {
+    "name": "paMultiY",
+    "description": "Perform peak analysis of multiple Y datasets using Peak Analyzer theme",
+    "page": 350,
+    "source": "19.4.3 Using Batch Processing X-Functions"
+  },
+  {
+    "name": "pe mkdir _",
+    "description": "CreateaFolder",
+    "page": 269,
+    "source": "page 269 table 1"
+  },
+  {
+    "name": "pe move _",
+    "description": "MoveaFolderorWindow",
+    "page": 269,
+    "source": "page 269 table 1"
+  },
+  {
+    "name": "pe rmdir _",
+    "description": "DeleteaFolder",
+    "page": 269,
+    "source": "page 269 table 1"
+  },
+  {
+    "name": "pe_cd",
+    "description": "Change to another folder",
+    "page": 269,
+    "source": "13.2.2 Project Explorer X-Functions"
+  },
+  {
+    "name": "pe_dir",
+    "description": "Show the contents of the active folder",
+    "page": 269,
+    "source": "13.2.2 Project Explorer X-Functions"
+  },
+  {
+    "name": "pe_mkdir",
+    "description": "Create a Folder",
+    "page": 269,
+    "source": "13.2.2 Project Explorer X-Functions"
+  },
+  {
+    "name": "pe_move",
+    "description": "Move a Folder or Window",
+    "page": 269,
+    "source": "13.2.2 Project Explorer X-Functions"
+  },
+  {
+    "name": "pe_path",
+    "description": "Report the current path",
+    "page": 269,
+    "source": "13.2.2 Project Explorer X-Functions"
+  },
+  {
+    "name": "pe_rename",
+    "description": "Rename a Folder or Window",
+    "page": 269,
+    "source": "13.2.2 Project Explorer X-Functions"
+  },
+  {
+    "name": "pe_rmdir",
+    "description": "Delete a Folder",
+    "page": 269,
+    "source": "13.2.2 Project Explorer X-Functions"
+  },
+  {
+    "name": "phm Cox _",
+    "description": "Perform aCoxProportionalHazardsModelanalysis",
+    "page": 493,
+    "source": "page 493 table 2"
+  },
+  {
+    "name": "phm_cox",
+    "description": "Cox Proportional Hazards Model",
+    "page": 302,
+    "source": "14.3.5 Survival Analysis"
+  },
+  {
+    "name": "pkFind",
+    "description": "Pick peaks.",
+    "page": 313,
+    "source": "14.6.1 X-Functions For Peak Analysis"
+  },
+  {
+    "name": "plotbylabel",
+    "description": "Plot a multiple-layers graph by grouping on column labels",
+    "page": 472,
+    "source": "20.3.2.3 Plotting"
+  },
+  {
+    "name": "plotgroup",
+    "description": "Plot by page group, layer group, and data group",
+    "page": 472,
+    "source": "20.3.2.3 Plotting"
+  },
+  {
+    "name": "plotmatrix",
+    "description": "Plot scatter matrix of the dataset",
+    "page": 472,
+    "source": "20.3.2.3 Plotting"
+  },
+  {
+    "name": "plotms",
+    "description": "Plot color fill surfaces or colormap surfaces for all matrix objects in the specified",
+    "page": 472,
+    "source": "20.3.2.3 Plotting"
+  },
+  {
+    "name": "plotmyaxes",
+    "description": "Customize Multi-Axes plot",
+    "page": 472,
+    "source": "20.3.2.3 Plotting"
+  },
+  {
+    "name": "plotstack",
+    "description": "Plot stacked graph",
+    "page": 472,
+    "source": "20.3.2.3 Plotting"
+  },
+  {
+    "name": "plotxy",
+    "description": "Plot XY data with specific properties",
+    "page": 472,
+    "source": "20.3.2.3 Plotting"
+  },
+  {
+    "name": "r2m",
+    "description": "Convert a range of worksheet data directly into a matrix",
+    "page": 470,
+    "source": "20.3.2.1 Gridding"
+  },
+  {
+    "name": "Rational2(x,a,b,c)",
+    "description": "Another form of Rational0 function with coefficient of x in denominator normalized.",
+    "page": 436,
+    "source": "20.2.15.11 Rational"
+  },
+  {
+    "name": "rowstats",
+    "description": "Statistics of a row of data",
+    "page": 296,
+    "source": "14.3.2 Descriptive statistics"
+  },
+  {
+    "name": "rowttest2",
+    "description": "Perform a two-sample t-test on rows",
+    "page": 492,
+    "source": "20.3.11.2 Hypothesis Testing"
+  },
+  {
+    "name": "rowttest2 (Pro Only)",
+    "description": "Perform a two-sample t-test on rows.",
+    "page": 298,
+    "source": "14.3.3 Hypothesis Testing"
+  },
+  {
+    "name": "rowttest2(Pro Only)",
+    "description": "Perform a two-sample t -test on rows .",
+    "page": 298,
+    "source": "page 298 table 1"
+  },
+  {
+    "name": "signrank1",
+    "description": "Test whether the location (median) of a population distribution is the same with a specified value",
+    "page": 301,
+    "source": "14.3.4 Nonparametric Tests"
+  },
+  {
+    "name": "signrank2/sign2",
+    "description": "Test whether or not the medians of the paired populations are equal. Input data should be in raw format.",
+    "page": 301,
+    "source": "14.3.4 Nonparametric Tests"
+  },
+  {
+    "name": "stats",
+    "description": "Treat selected columns as a complete dataset; compute statistics of the dataset.",
+    "page": 296,
+    "source": "14.3.2 Descriptive statistics"
+  },
+  {
+    "name": "ttest1",
+    "description": "Compare the sample mean to the hypothesized population mean.",
+    "page": 298,
+    "source": "14.3.3 Hypothesis Testing"
+  },
+  {
+    "name": "ttest1",
+    "description": "One-Sample t-test",
+    "page": 492,
+    "source": "20.3.11.2 Hypothesis Testing"
+  },
+  {
+    "name": "ttest2",
+    "description": "Compare the sample means of two samples.",
+    "page": 298,
+    "source": "14.3.3 Hypothesis Testing"
+  },
+  {
+    "name": "ttest2",
+    "description": "Two-Sample t-test",
+    "page": 492,
+    "source": "20.3.11.2 Hypothesis Testing"
+  },
+  {
+    "name": "ttestpair",
+    "description": "Determine whether two sample means are equal in the case that they are matched.",
+    "page": 298,
+    "source": "14.3.3 Hypothesis Testing"
+  },
+  {
+    "name": "ttestpair",
+    "description": "Pair-Sample t test",
+    "page": 492,
+    "source": "20.3.11.2 Hypothesis Testing"
+  },
+  {
+    "name": "vartest1",
+    "description": "Chi-squared variance test",
+    "page": 492,
+    "source": "20.3.11.2 Hypothesis Testing"
+  },
+  {
+    "name": "vartest1 (Pro Only)",
+    "description": "Determine whether the sample variance is equal to a specified value.",
+    "page": 298,
+    "source": "14.3.3 Hypothesis Testing"
+  },
+  {
+    "name": "vartest2",
+    "description": "Perform a F-test.",
+    "page": 492,
+    "source": "20.3.11.2 Hypothesis Testing"
+  },
+  {
+    "name": "vartest2 (Pro Only)",
+    "description": "Determine whether two sample variances are equal.",
+    "page": 298,
+    "source": "14.3.3 Hypothesis Testing"
+  },
+  {
+    "name": "weibullfit",
+    "description": "Weibull Fit",
+    "page": 302,
+    "source": "14.3.5 Survival Analysis"
+  }
+]

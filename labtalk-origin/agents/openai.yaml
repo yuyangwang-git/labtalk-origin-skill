@@ -1,0 +1,4 @@
+interface:
+  display_name: "LabTalk Origin"
+  short_description: "Write and debug Origin LabTalk automation"
+  default_prompt: "Use $labtalk-origin to write an Origin LabTalk script for importing data, processing worksheets, and plotting results."
